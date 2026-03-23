@@ -1,2 +1,16 @@
-# ECE-373-Group-Project
-It is a project that used for final project in course 373. We simulated a fast-food restaurant's ordering system using Java.
+# ECE 373 Group Project – Fast Food Ordering System
+
+## Overview
+This project simulates a fast-food restaurant ordering system using Java.
+
+## Features
+- Customer management
+- Order processing
+- Payment system
+
+## Technologies
+- Java
+- Object-Oriented Programming
+
+## How to Run
+Run Main.java in Eclipse with GUI.
